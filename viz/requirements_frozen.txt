@@ -30,7 +30,7 @@ fire==0.6.0
 fonttools==4.60.2
 fqdn==1.5.1
 fsspec==2024.6.0
-h11==0.14.0
+h11==0.16.0
 holoviews==1.19.0
 httpcore==1.0.5
 httpx==0.27.0

@@ -27,7 +27,7 @@ defusedxml==0.7.1
 executing==2.0.1
 fastjsonschema==2.19.1
 fire==0.6.0
-fonttools==4.53.0
+fonttools==4.60.2
 fqdn==1.5.1
 fsspec==2024.6.0
 h11==0.14.0
